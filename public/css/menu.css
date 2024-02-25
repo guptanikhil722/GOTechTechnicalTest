@@ -1,0 +1,55 @@
+body{
+  
+}
+
+
+.menuPage{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center; 
+    padding: 10% 3% 10% 3% !important;
+}
+
+.navbarText{
+    color: #000000 !important;
+    font-size: 20px !important;
+}
+
+.breadcrumb-item .navbarText >.active a {
+    color: black;
+ }
+
+ 
+ .menuScreenTitle{
+ font-size: 35px;
+ color: #000000 !important
+ }
+ .custom-select {
+    /* position: relative; */
+    width:80vw !important;
+  }
+  .addNewSubMenu{
+    width: auto!important;
+    background-color: #FFA500 !important;
+    border: #ffffff 0px !important;
+    float: right !important;
+    
+  }
+  .addNewSubMenu.right{
+    margin-left: 75%;
+    margin-top: -40px !important;
+  }
+  .addNewSubMenu.center{
+    margin-right: 45%;
+    /* margin-top: -40px !important; */
+  }
+  .icons{
+    margin-top: -35px !important;
+    margin-left: 55%;
+
+  }
+  .asterik{
+    color: red !important;
+  }
+ 
