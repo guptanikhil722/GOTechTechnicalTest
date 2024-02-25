@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.db62923b.css",
-    "main.js": "/static/js/main.e22f89c2.js",
-    "static/js/453.2080ff58.chunk.js": "/static/js/453.2080ff58.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.db62923b.css.map": "/static/css/main.db62923b.css.map",
-    "main.e22f89c2.js.map": "/static/js/main.e22f89c2.js.map",
-    "453.2080ff58.chunk.js.map": "/static/js/453.2080ff58.chunk.js.map"
+    "main.css": "/GOTechTechnicalTest/static/css/main.db62923b.css",
+    "main.js": "/GOTechTechnicalTest/static/js/main.9d5e1612.js",
+    "static/js/453.2080ff58.chunk.js": "/GOTechTechnicalTest/static/js/453.2080ff58.chunk.js",
+    "static/media/logo.svg": "/GOTechTechnicalTest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/GOTechTechnicalTest/index.html",
+    "main.db62923b.css.map": "/GOTechTechnicalTest/static/css/main.db62923b.css.map",
+    "main.9d5e1612.js.map": "/GOTechTechnicalTest/static/js/main.9d5e1612.js.map",
+    "453.2080ff58.chunk.js.map": "/GOTechTechnicalTest/static/js/453.2080ff58.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db62923b.css",
-    "static/js/main.e22f89c2.js"
+    "static/js/main.9d5e1612.js"
   ]
 }
